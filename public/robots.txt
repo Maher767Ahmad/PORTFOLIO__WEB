@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harris-qaisrani.tech/sitemap.xml
